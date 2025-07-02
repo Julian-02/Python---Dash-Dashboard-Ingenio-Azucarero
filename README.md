@@ -20,14 +20,7 @@ Dashboard interactivo desarrollado con **Dash** y **Plotly**, conectado a una ba
 
 🌗 Cambiar entre **tema claro y oscuro**
 
----
+## 🧠 Técnicas de Python Utilizadas
 
-## 📁 Estructura del proyecto
-
-```bash
-dashboard-ingenio/
-├── app.py              # Código principal de la app con Dash
-├── datos.py            # Consultas SQL con pandas + SQLAlchemy
-├── conexion.py         # Conexión a SQL Server (ajustar según entorno)
-├── requirements.txt    # Lista de dependencias del proyecto
-└── README.md           # Documentación del proyecto
+### 🔗 Conexión a Base de Datos (SQLAlchemy + PyODBC)
+Se utiliza `SQLAlchemy` como ORM ligero junto con `pyodbc` para conectarse a bases de datos SQL Server. La conexión se realiza en el archivo `conexion.py`:
