@@ -2,6 +2,8 @@
 
 Dashboard interactivo desarrollado con **Dash** y **Plotly**, conectado a una base de datos **SQL Server**, diseñado para visualizar y analizar la operación de proveedores en un Ingenio Azucarero.
 
+Link de exposición del proyecto: https://youtu.be/2PavQ8z2gxk
+
 ---
 
 ## 🔎 Funcionalidades
